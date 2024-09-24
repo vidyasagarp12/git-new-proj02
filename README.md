@@ -1,2 +1,2 @@
 # git-new-proj02
-## Sagar
+This site was built using [GitHub Pages](https://www.google.com/).
